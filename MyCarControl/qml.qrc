@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>screen_saver.jpg</file>
+        <file>shestyorka.jpg</file>
+    </qresource>
+</RCC>
